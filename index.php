@@ -19,14 +19,6 @@
         <script src="js/vendor/jquery-1.12.0.min.js"></script>
         <script src="bootstrap-3.3.7/js/bootstrap.min.js" </script>
         <script src="bootstrap-3.3.7/js/bootstrap.js" </script>
-
-
-
-
-
-
-
-
 </head>
 <body>
 <div class="main">
@@ -35,7 +27,7 @@
   <div class="col-sm-12">
   <nav class="shadow navbar navbar-inverse navbar-fixed-top nbar">
     <div class="navbar-header">
-      <a class="navbar-brand lspace" href="index.php">RUET OJ</a>
+      <a class="navbar-brand lspace" href="index.php">Synod College </a>
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-menubuilder"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
             </button>
     </div>
@@ -52,27 +44,16 @@
 </nav>
 </div>
 </div>
-
-
 <div class="row log">
 <div class="col-sm-10">
 <!--<center><div class="alert alert-success"><a href="https://github.com/shawon100/RUET-OJ">RUET OJ</a> is temporary unavailable for server problem. We will be back</div></center><br>-->
 <div class=""><h3 style="text-align:center;">Online Compiler</h3></div>
 </div>
-
 <div class="col-sm-1">
-
 </div>
-
 <div class="col-sm-1">
-  
 </div>
-
 </div>
-
-
-
-
 <div class="row cspace">
 <div class="col-sm-8">
 <div class="form-group">
